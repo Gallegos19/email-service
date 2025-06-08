@@ -1,0 +1,130 @@
+2025-05-29T04:16:42.813Z [[31merror[39m]: Error configurando Gmail transporter nodemailer.createTransporter is not a function {
+  "stack": "TypeError: nodemailer.createTransporter is not a function\n    at GmailEmailProvider.getTransporter (C:\\Users\\adrib\\Documents\\9no Cuatri\\Arquitectura Orientada a Servicios\\1 Corte\\Practica 2\\email-service\\src\\infrastructure\\adapters\\GmailEmailProvider.js:34:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async GmailEmailProvider.verifyConnection (C:\\Users\\adrib\\Documents\\9no Cuatri\\Arquitectura Orientada a Servicios\\1 Corte\\Practica 2\\email-service\\src\\infrastructure\\adapters\\GmailEmailProvider.js:90:27)\n    at async EmailServer.start (C:\\Users\\adrib\\Documents\\9no Cuatri\\Arquitectura Orientada a Servicios\\1 Corte\\Practica 2\\email-service\\src\\server.js:87:7)"
+}
+2025-05-29T04:47:16.706Z [[31merror[39m]: Error verificando conexión Gmail Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 586e51a60fabf-2e906461452sm137692fac.8 - gsmtp {
+  "code": "EAUTH",
+  "response": "535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 586e51a60fabf-2e906461452sm137692fac.8 - gsmtp",
+  "responseCode": 535,
+  "command": "AUTH XOAUTH2",
+  "stack": "Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 586e51a60fabf-2e906461452sm137692fac.8 - gsmtp\n    at SMTPConnection._formatError (C:\\Users\\adrib\\Documents\\9no Cuatri\\Arquitectura Orientada a Servicios\\1 Corte\\Practica 2\\email-service\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:809:19)\n    at SMTPConnection._actionAUTHComplete (C:\\Users\\adrib\\Documents\\9no Cuatri\\Arquitectura Orientada a Servicios\\1 Corte\\Practica 2\\email-service\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1588:34)\n    at SMTPConnection.<anonymous> (C:\\Users\\adrib\\Documents\\9no Cuatri\\Arquitectura Orientada a Servicios\\1 Corte\\Practica 2\\email-service\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1567:26)\n    at SMTPConnection._processResponse (C:\\Users\\adrib\\Documents\\9no Cuatri\\Arquitectura Orientada a Servicios\\1 Corte\\Practica 2\\email-service\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:993:20)\n    at SMTPConnection._onData (C:\\Users\\adrib\\Documents\\9no Cuatri\\Arquitectura Orientada a Servicios\\1 Corte\\Practica 2\\email-service\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:774:14)\n    at SMTPConnection._onSocketData (C:\\Users\\adrib\\Documents\\9no Cuatri\\Arquitectura Orientada a Servicios\\1 Corte\\Practica 2\\email-service\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:195:44)\n    at TLSSocket.emit (node:events:519:28)\n    at addChunk (node:internal/streams/readable:559:12)\n    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)\n    at Readable.push (node:internal/streams/readable:390:5)"
+}
+2025-05-29T04:50:36.782Z [[31merror[39m]: Error verificando conexión Gmail Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 586e51a60fabf-2e906456892sm138936fac.7 - gsmtp {
+  "code": "EAUTH",
+  "response": "535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 586e51a60fabf-2e906456892sm138936fac.7 - gsmtp",
+  "responseCode": 535,
+  "command": "AUTH XOAUTH2",
+  "stack": "Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 586e51a60fabf-2e906456892sm138936fac.7 - gsmtp\n    at SMTPConnection._formatError (C:\\Users\\adrib\\Documents\\9no Cuatri\\Arquitectura Orientada a Servicios\\1 Corte\\Practica 2\\email-service\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:809:19)\n    at SMTPConnection._actionAUTHComplete (C:\\Users\\adrib\\Documents\\9no Cuatri\\Arquitectura Orientada a Servicios\\1 Corte\\Practica 2\\email-service\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1588:34)\n    at SMTPConnection.<anonymous> (C:\\Users\\adrib\\Documents\\9no Cuatri\\Arquitectura Orientada a Servicios\\1 Corte\\Practica 2\\email-service\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1567:26)\n    at SMTPConnection._processResponse (C:\\Users\\adrib\\Documents\\9no Cuatri\\Arquitectura Orientada a Servicios\\1 Corte\\Practica 2\\email-service\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:993:20)\n    at SMTPConnection._onData (C:\\Users\\adrib\\Documents\\9no Cuatri\\Arquitectura Orientada a Servicios\\1 Corte\\Practica 2\\email-service\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:774:14)\n    at SMTPConnection._onSocketData (C:\\Users\\adrib\\Documents\\9no Cuatri\\Arquitectura Orientada a Servicios\\1 Corte\\Practica 2\\email-service\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:195:44)\n    at TLSSocket.emit (node:events:519:28)\n    at addChunk (node:internal/streams/readable:559:12)\n    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)\n    at Readable.push (node:internal/streams/readable:390:5)"
+}
+2025-05-29T04:51:02.658Z [[31merror[39m]: ❌ Error verificando conexión Gmail {
+  "error": "Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 46e09a7af769-735af879fe2sm142119a34.40 - gsmtp",
+  "user": "223204@ids.upchiapas.edu.mx"
+}
+2025-05-29T04:52:30.688Z [[31merror[39m]: ❌ Error verificando conexión Gmail {
+  "error": "Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 586e51a60fabf-2e906b810b3sm139108fac.34 - gsmtp",
+  "user": "223204@ids.upchiapas.edu.mx"
+}
+2025-05-29T04:52:51.380Z [[31merror[39m]: ❌ Error verificando conexión Gmail {
+  "error": "Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 006d021491bc7-60bd9c1be64sm422537eaf.16 - gsmtp",
+  "user": "223204@ids.upchiapas.edu.mx"
+}
+2025-05-29T04:59:40.380Z [[31merror[39m]: Error configurando Gmail transporter {
+  "error": "unauthorized_client",
+  "user": "223204@ids.upchiapas.edu.mx"
+}
+2025-05-29T04:59:40.381Z [[31merror[39m]: ❌ Error verificando conexión Gmail {
+  "error": "Cliente OAuth no autorizado. Verifica la configuración en Google Cloud Console",
+  "user": "223204@ids.upchiapas.edu.mx"
+}
+2025-05-29T05:00:03.918Z [[31merror[39m]: Error configurando Gmail transporter {
+  "error": "unauthorized_client",
+  "user": "gallegosborrazjulioadrian@gmail.com"
+}
+2025-05-29T05:00:03.919Z [[31merror[39m]: ❌ Error verificando conexión Gmail {
+  "error": "Cliente OAuth no autorizado. Verifica la configuración en Google Cloud Console",
+  "user": "gallegosborrazjulioadrian@gmail.com"
+}
+2025-05-29T05:00:44.002Z [[31merror[39m]: ❌ Error verificando conexión Gmail {
+  "error": "Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5614622812f47-40665473231sm474563b6e.33 - gsmtp",
+  "user": "gallegosborrazjulioadrian@gmail.com"
+}
+2025-05-29T05:08:23.026Z [[31merror[39m]: Error configurando Gmail transporter {
+  "error": "unauthorized_client",
+  "user": "gallegosborrazjulioadrian@gmail.com"
+}
+2025-05-29T05:08:23.027Z [[31merror[39m]: ❌ Error verificando conexión Gmail {
+  "error": "Cliente OAuth no autorizado. Verifica la configuración en Google Cloud Console",
+  "user": "gallegosborrazjulioadrian@gmail.com"
+}
+2025-05-29T05:09:39.723Z [[31merror[39m]: Error configurando Gmail transporter {
+  "error": "unauthorized_client",
+  "user": "gallegosborrazjulioadrian@gmail.com"
+}
+2025-05-29T05:09:39.724Z [[31merror[39m]: ❌ Error verificando conexión Gmail {
+  "error": "Cliente OAuth no autorizado. Verifica la configuración en Google Cloud Console",
+  "user": "gallegosborrazjulioadrian@gmail.com"
+}
+2025-05-29T05:10:23.169Z [[31merror[39m]: Error configurando Gmail transporter {
+  "error": "unauthorized_client",
+  "user": "gallegosborrazjulioadrian@gmail.com"
+}
+2025-05-29T05:10:23.170Z [[31merror[39m]: ❌ Error verificando conexión Gmail {
+  "error": "Cliente OAuth no autorizado. Verifica la configuración en Google Cloud Console",
+  "user": "gallegosborrazjulioadrian@gmail.com"
+}
+2025-05-29T05:17:40.217Z [[31merror[39m]: Error configurando Gmail transporter {
+  "error": "unauthorized_client",
+  "user": "gallegosborrazjulioadrian@gmail.com"
+}
+2025-05-29T05:17:40.218Z [[31merror[39m]: ❌ Error verificando conexión Gmail {
+  "error": "Cliente OAuth no autorizado. Verifica la configuración en Google Cloud Console",
+  "user": "gallegosborrazjulioadrian@gmail.com"
+}
+2025-05-29T05:19:00.715Z [[31merror[39m]: Error configurando Gmail transporter {
+  "error": "unauthorized_client",
+  "user": "gallegosborrazjulioadrian@gmail.com"
+}
+2025-05-29T05:19:00.716Z [[31merror[39m]: ❌ Error verificando conexión Gmail {
+  "error": "Cliente OAuth no autorizado. Verifica la configuración en Google Cloud Console",
+  "user": "gallegosborrazjulioadrian@gmail.com"
+}
+2025-05-29T05:19:37.539Z [[31merror[39m]: Error configurando Gmail transporter {
+  "error": "unauthorized_client",
+  "user": "gallegosborrazjulioadrian@gmail.com"
+}
+2025-05-29T05:19:37.540Z [[31merror[39m]: ❌ Error verificando conexión Gmail {
+  "error": "Cliente OAuth no autorizado. Verifica la configuración en Google Cloud Console",
+  "user": "gallegosborrazjulioadrian@gmail.com"
+}
+2025-05-29T05:21:46.117Z [[31merror[39m]: Error configurando Gmail transporter {
+  "error": "unauthorized_client",
+  "user": "gallegosborrazjulioadrian@gmail.com"
+}
+2025-05-29T05:21:46.118Z [[31merror[39m]: ❌ Error verificando conexión Gmail {
+  "error": "Cliente OAuth no autorizado. Verifica la configuración en Google Cloud Console",
+  "user": "gallegosborrazjulioadrian@gmail.com"
+}
+2025-05-29T05:34:34.115Z [[31merror[39m]: ❌ Error verificando conexión Gmail {
+  "error": "Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5614622812f47-406676bfc6asm430234b6e.19 - gsmtp",
+  "user": "gallegosborrazjulioadrian@gmail.com"
+}
+2025-05-29T05:35:55.198Z [[31merror[39m]: ❌ Error verificando conexión Gmail {
+  "error": "Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 46e09a7af769-735af855785sm146449a34.20 - gsmtp",
+  "user": "gallegosborrazjulioadrian@gmail.com"
+}
+2025-05-29T05:38:01.101Z [[31merror[39m]: ❌ Error verificando conexión Gmail {
+  "error": "Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5614622812f47-4066a967783sm339283b6e.12 - gsmtp",
+  "user": "gallegosborrazjulioadrian@gmail.com"
+}
+2025-05-29T05:39:19.891Z [[31merror[39m]: ❌ Error verificando conexión Gmail {
+  "error": "Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 006d021491bc7-60be8b9885bsm99433eaf.39 - gsmtp",
+  "user": "gallegosborrazjulioadrian@gmail.com"
+}
+2025-05-29T05:42:30.028Z [[31merror[39m]: ❌ Error verificando conexión Gmail: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 586e51a60fabf-2e9067b02f3sm149311fac.15 - gsmtp {
+  "code": "EAUTH",
+  "command": "AUTH XOAUTH2",
+  "response": "535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 586e51a60fabf-2e9067b02f3sm149311fac.15 - gsmtp",
+  "user": "gallegosborrazjulioadrian@gmail.com"
+}
