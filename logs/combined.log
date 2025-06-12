@@ -14916,3 +14916,311 @@
   "ip": "::1",
   "userAgent": "API-Gateway-HealthChecker/1.0"
 }
+2025-06-11T23:42:04.987Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-11T23:42:35.000Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-11T23:43:05.012Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-11T23:43:35.019Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-11T23:44:05.032Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-11T23:44:35.038Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-11T23:45:05.043Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-11T23:45:35.053Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-11T23:46:05.064Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-11T23:46:35.064Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-11T23:47:05.074Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-11T23:47:35.087Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-11T23:48:05.093Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-11T23:48:35.097Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-11T23:49:05.111Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-11T23:49:35.122Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-11T23:50:05.141Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-11T23:50:35.127Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-11T23:51:05.135Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-11T23:51:35.143Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-11T23:52:05.156Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-11T23:52:35.164Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-11T23:53:05.175Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-11T23:53:35.185Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-11T23:54:05.196Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-11T23:54:35.201Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-11T23:55:05.211Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-11T23:55:35.220Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-11T23:56:05.228Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-11T23:56:35.246Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-11T23:57:05.259Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-11T23:57:35.269Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-11T23:58:05.271Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-11T23:58:35.271Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-11T23:59:05.281Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-11T23:59:35.285Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:00:05.289Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:00:35.294Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:01:05.309Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:01:35.318Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:02:05.328Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:02:35.328Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:03:05.331Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:03:35.344Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:04:05.358Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:04:35.359Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:05:05.378Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:05:35.389Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:06:05.397Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:06:35.404Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:07:05.408Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:07:35.408Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:08:05.408Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:08:35.411Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:09:05.415Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:09:35.418Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:10:05.431Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:10:35.435Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:11:05.447Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:11:35.458Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:12:05.463Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:12:35.462Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:13:05.475Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:13:35.486Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:14:05.495Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:14:35.509Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:15:05.519Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:15:35.524Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:16:05.529Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:16:35.530Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:17:05.530Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:17:35.539Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:18:05.548Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:18:35.547Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:19:05.562Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:19:35.571Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
+2025-06-12T00:20:05.576Z [[32minfo[39m]: GET /health {
+  "ip": "::1",
+  "userAgent": "API-Gateway-HealthChecker/1.0"
+}
